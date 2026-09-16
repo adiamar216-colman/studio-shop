@@ -19,7 +19,7 @@
 3. הריצו את `cart-upgrade.sql`. בפרויקט הקיים מספיק להריץ רק את העדכון, לא שוב את setup.sql.
 4. הריצו פעם אחת את `admin-upgrade.sql`.
 5. הגדירו ב-`config.js` את Project URL ואת המפתח הציבורי Publishable או anon. אין להכניס Secret key או service_role.
-6. הפעילו `python3 -m http.server 8000 --directory dist` ופתחו http://localhost:8000.
+6. הפעילו `python3 -m http.server 8000` ופתחו http://localhost:8000.
 
 ## צפייה בהזמנות
 
